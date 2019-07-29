@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pawn
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pawn\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casa\ tipo\ cor
+comment1.target=Pawn(Casa,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=int\ getTurnPassant()
+comment2.params=
+comment2.target=Casa\ getInitCasa()
+comment3.params=newCasa
+comment3.target=void\ mover(Casa)
+comment4.params=direction\ newX\ newY\ newCasa\ board
+comment4.target=void\ eatDirection(int,\ int,\ int,\ Casa,\ Tabuleiro)
+comment5.params=newCasa
+comment5.target=void\ finalCasa(Casa)
+comment6.params=jogo
+comment6.target=void\ checkEatPawnWhite(Jogo)
+comment7.params=jogo
+comment7.target=void\ checkEatPawnBlack(Jogo)
+comment8.params=
+comment8.target=boolean\ getPassant()
+comment9.params=
+comment9.target=int\ getDirection()
+numComments=11

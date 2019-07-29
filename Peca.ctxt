@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Peca
+comment0.text=\r\n\ Representa\ uma\ Pe\uFFFDa\ do\ jogo.\r\n\ Possui\ uma\ casa\ e\ um\ tipo\ associado.\r\n\ \r\n\ @author\ Alan\ Moraes\ &lt;alan@ci.ufpb.br&gt;\r\n\ @author\ Leonardo\ Villeth\ &lt;lvilleth@cc.ci.ufpb.br&gt;\r\n
+comment1.params=casa\ tipo\ cor
+comment1.target=Peca(Casa,\ int,\ java.lang.String)
+comment2.params=newCasa
+comment2.target=void\ mover(Casa)
+comment3.params=
+comment3.target=int[]\ checkLines()
+comment3.text=\r\n\ Movimenta\ a\ pe\uFFFDa\ para\ uma\ nova\ casa.\r\n\ @param\ destino\ nova\ casa\ que\ ira\ conter\ esta\ pe\uFFFDa.\r\n
+comment4.params=jogo
+comment4.target=void\ checkMoveDiagonals(Jogo)
+comment5.params=
+comment5.target=int\ getTipo()
+comment5.text=\r\n\ Valor\ \ \ \ Tipo\r\n\ \ \ 0\ \ \ Branca\ (Pedra)\r\n\ \ \ 1\ \ \ Branca\ (Dama)\r\n\ \ \ 2\ \ \ Vermelha\ (Pedra)\r\n\ \ \ 3\ \ \ Vermelha\ (Dama)\r\n\ @return\ o\ tipo\ da\ peca.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getCor()
+comment7.params=
+comment7.target=Casa\ getCasaFromPeca()
+numComments=8

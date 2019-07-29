@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Knight\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casa\ tipo\ cor
+comment1.target=Knight(Casa,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Knight\r\n
+comment2.params=newCasa
+comment2.target=void\ mover(Casa)
+comment3.params=jogo
+comment3.target=void\ checkEatKnight(Jogo)
+numComments=4

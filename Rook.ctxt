@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rook
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rook\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casa\ tipo\ cor
+comment1.target=Rook(Casa,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rook\r\n
+comment2.params=newCasa
+comment2.target=void\ mover(Casa)
+comment3.params=
+comment3.target=int[]\ checkMoveRook()
+comment4.params=
+comment4.target=boolean\ getInitCasaRook()
+comment5.params=
+comment5.target=Rook\ getRook()
+comment6.params=
+comment6.target=Casa\ getCasaRook()
+comment7.params=newCasa
+comment7.target=void\ setCasaRook(Casa)
+numComments=8
